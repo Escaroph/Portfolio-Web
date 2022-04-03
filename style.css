@@ -1,0 +1,44 @@
+#title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(212, 193, 16);
+}
+
+#foto {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#sobre_mim {
+    display: inline-block;
+    vertical-align: top;;
+
+}
+
+#texto_sobre {
+    display: inline-block;
+    float: right;
+    margin-right: 170px;
+    margin-left: 20px;
+    width: 47%;
+}
+
+.body {
+    background-color: rgb(51, 41, 41);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p {
+    color: rgb(221, 220, 220);
+}
+
+li {
+    color: rgb(194, 158, 41);
+    text-decoration: none;
+}
+
+a {
+    color: rgb(194, 158, 41);
+    text-decoration: none;
+}
