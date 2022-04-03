@@ -11,7 +11,7 @@
 
 #sobre_mim {
     display: inline-block;
-    vertical-align: top;;
+    vertical-align: top;
 
 }
 
@@ -23,8 +23,13 @@
     width: 47%;
 }
 
-.body {
-    background-color: rgb(51, 41, 41);
+#local {
+    font-family: monospace;
+    font-size: 17px;
+}
+
+body {
+    background-color: rgb(29, 18, 56);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
@@ -41,4 +46,13 @@ li {
 a {
     color: rgb(194, 158, 41);
     text-decoration: none;
+}
+.unix {
+    font-size: 19px;
+}
+.bash {
+    font-size: 18px;
+}
+.git {
+    font-size: 22px;
 }
